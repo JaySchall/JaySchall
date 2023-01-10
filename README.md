@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 my name is Jonathan Schall
+
+### Technical Skills
+
+- C++, Python, Java
+- HTML, CSS, Javascript
+- MySQL
+- Git, Github
+- Visual Code
+- Photoshop, Blender
 
 <!--
 **JaySchall/JaySchall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
