@@ -51,9 +51,9 @@
 
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaySchall&theme=radical&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaySchall&theme=great-gatsby&show_icons=true" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaySchall&theme=radical&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaySchall&theme=great-gatsby&layout=compact" />
 </div>
 <!--
 **JaySchall/JaySchall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
